@@ -9,7 +9,7 @@ if exists("syntax_on")
 endif
 
 "Optionally load 'base' color scheme
-"runtime /usr/share/vim/vim74/colors/torte.vim
+runtime /usr/share/vim/vim74/colors/torte.vim
 " All changes will be made on top of this!
 
 " Set color scheme name 
